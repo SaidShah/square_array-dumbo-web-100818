@@ -8,5 +8,5 @@ def square_array(array)
     square_array_of_nums << squared_num
     
 end
-  
+  square_array_of_nums
 end
